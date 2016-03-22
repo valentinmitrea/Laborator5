@@ -19,7 +19,7 @@ public interface Constants {
 
     final public static String STRING_DATA = "EIM";
     final public static int INTEGER_DATA = 2016;
-    final public static ArrayList<String> ARRAY_LIST_DATA = new ArrayList<>(Arrays.asList("EIM", "2016"));
+    final public static ArrayList<String> ARRAY_LIST_DATA = new ArrayList<String>(Arrays.asList("EIM", "2016"));
 
     final public static long SLEEP_TIME = 5000;
 
