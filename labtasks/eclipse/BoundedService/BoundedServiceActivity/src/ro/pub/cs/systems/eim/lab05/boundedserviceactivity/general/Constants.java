@@ -3,6 +3,7 @@ package ro.pub.cs.systems.eim.lab05.boundedserviceactivity.general;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+
 public interface Constants {
 
     final public static String TAG = "[Bounded Service]";

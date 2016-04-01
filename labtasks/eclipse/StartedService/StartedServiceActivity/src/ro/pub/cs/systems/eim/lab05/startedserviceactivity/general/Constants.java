@@ -1,5 +1,6 @@
 package ro.pub.cs.systems.eim.lab05.startedserviceactivity.general;
 
+
 public interface Constants {
 
     final public static String TAG = "[Started Service Activity]";
@@ -11,4 +12,5 @@ public interface Constants {
     final public static String DATA = "ro.pub.cs.systems.eim.lab05.startedservice.data";
 
     final public static String MESSAGE = "ro.pub.cs.systems.eim.lab05.startedserviceactivity.message";
+
 }
